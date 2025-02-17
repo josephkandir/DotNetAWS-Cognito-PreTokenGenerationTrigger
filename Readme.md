@@ -39,7 +39,7 @@ If already installed check if new version is available.
 
 Deploy function to AWS Lambda
 ```
-    cd "SimpleDynamoDBFunction/src/SimpleDynamoDBFunction"
+    cd "SimpleCognitoPreTokenGenFunction/src/SimpleCognitoPreTokenGenFunction"
     dotnet lambda deploy-function
 ```
 
